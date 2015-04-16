@@ -1,4 +1,9 @@
-= One
+---
+layout: page
+title: ONE
+---
+
+= This is page One
 
 link:two.adoc[link to two]
 
