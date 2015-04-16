@@ -1,0 +1,9 @@
+= Asciidoctor-Website
+
+This repo demonstrates relative linking between Asciidoc files that works like a website.
+
+Try it
+
+* link:one.adoc[link to one]
+* link:twoe.adoc[link to two]
+* link:three.adoc[link to three]
