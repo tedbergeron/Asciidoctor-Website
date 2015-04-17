@@ -1,3 +1,8 @@
+---
+layout: page
+title: The Default Page
+---
+
 = Default
 
 this is the default page.
