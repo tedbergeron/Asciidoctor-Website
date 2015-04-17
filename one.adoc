@@ -1,5 +1,4 @@
 ---
-layout: page
 title: ONE
 ---
 
@@ -7,18 +6,16 @@ title: ONE
 
 link:two.adoc[link to two]
 
-One one one. One one one. One one one. One one one. One one one. One one one. 
+One one one. One one one. One one one. One one one. One one one. One one one.
 
 * One
 * One
 * One
 
-One one one. One one one. One one one. One one one. One one one. One one one. 
+One one one. One one one. One one one. One one one. One one one. One one one.
 
-One one one. One one one. One one one. One one one. One one one. One one one. 
+One one one. One one one. One one one. One one one. One one one. One one one.
 
-One one one. One one one. One one one. One one one. One one one. One one one. 
+One one one. One one one. One one one. One one one. One one one. One one one.
 
-One one one. One one one. One one one. One one one. One one one. One one one. 
-
-
+One one one. One one one. One one one. One one one. One one one. One one one.
