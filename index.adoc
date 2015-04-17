@@ -1,0 +1,5 @@
+= Default
+
+this is the default page.
+
+link:README.adoc[]
