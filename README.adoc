@@ -2,9 +2,21 @@
 
 This repo demonstrates relative linking between Asciidoc files that works like a website.
 
-Try it
+AsciiDoc pages
 
 * link:one.adoc[link to one]
 * link:two.adoc[link to two]
 * link:three.adoc[link to three]
+
+Markdown pages
+
+* link:index.md[index]
 * link:four.md[link to four]
+* link:five.md[link to five]
+* link:six.md[link to six]
+
+These Markdown pages are rendered as HTML.
+
+You can get to them here:
+
+link:http://tedbergeron.github.io/Asciidoctor-Website/four.html[]
