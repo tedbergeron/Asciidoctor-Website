@@ -1,5 +1,6 @@
 ---
 title: Four
+layout: default
 ---
 
 # This is page Four
