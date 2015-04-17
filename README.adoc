@@ -15,7 +15,7 @@ Markdown pages
 * link:five.md[link to five]
 * link:six.md[link to six]
 
-These Markdown pages are rendered as HTML.
+These Markdown pages are rendered as HTML. Because they have the YAML front matter block
 
 You can get to them here:
 

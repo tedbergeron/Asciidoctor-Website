@@ -6,6 +6,8 @@ title: ONE
 
 link:two.adoc[link to two]
 
+NOTE: This is AsciiDoc
+
 One one one. One one one. One one one. One one one. One one one. One one one.
 
 * One
