@@ -17,6 +17,13 @@ Markdown pages
 
 These Markdown pages are rendered as HTML. Because they have the YAML front matter block
 
-You can get to them here:
+You can get to page 4 here:
 
 link:http://tedbergeron.github.io/Asciidoctor-Website/four.html[]
+
+
+==== Styling Markdown Pages
+
+Create a _layouts director and add a template
+
+link:http://stackoverflow.com/questions/14024594/how-do-i-prevent-the-github-pages-automatic-generator-to-remove-everything-bef[Stackoverflow Answer]
