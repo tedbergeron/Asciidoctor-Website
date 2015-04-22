@@ -1,6 +1,4 @@
 [options="header"]
 |=======================
-|link:README.adoc[README icon:home[]]|link:one.adoc[one]|link:two.adoc[two]|link:three.adoc[three]|link:four.md[four.md]
+|link:README.adoc[README]|link:one.adoc[one]|link:two.adoc[two]|link:three.adoc[three]|link:four.md[four.md]
 |=======================
-[.right.text-center]
-icon:file-text-o[5x, role=Maroon]
