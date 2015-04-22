@@ -21,3 +21,7 @@ One one one. One one one. One one one. One one one. One one one. One one one.
 One one one. One one one. One one one. One one one. One one one. One one one.
 
 One one one. One one one. One one one. One one one. One one one. One one one.
+
+== Smart Link here
+
+<<two.adoc#,Smart Link to page 2>>
