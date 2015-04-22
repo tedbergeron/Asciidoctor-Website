@@ -1,3 +1,5 @@
+include::header.adoc[]
+
 = Two
 
 * link:one.adoc[link to one]

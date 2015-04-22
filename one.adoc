@@ -1,6 +1,4 @@
----
-title: ONE
----
+include::header.adoc[]
 
 = This is page One
 

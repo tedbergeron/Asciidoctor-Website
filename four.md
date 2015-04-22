@@ -23,9 +23,3 @@ Four Four Four. Four Four Four. Four Four Four. Four Four Four. Four Four Four. 
 Four Four Four. Four Four Four. Four Four Four. Four Four Four. Four Four Four. Four Four Four.
 
 Four Four Four. Four Four Four. Four Four Four. Four Four Four. Four Four Four. Four Four Four.
-
-
-### Smart Links
-
-<<five.md#,Smart Link to page 5>>
-<<six.md#,Smart Link to page 6>>
